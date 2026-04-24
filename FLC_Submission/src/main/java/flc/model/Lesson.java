@@ -78,3 +78,5 @@ public class Lesson {
                 exerciseType.getPrice(), MAX_CAPACITY - bookedMemberIds.size());
     }
 }
+  
+
