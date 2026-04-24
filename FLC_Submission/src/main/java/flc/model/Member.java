@@ -20,3 +20,5 @@ public class Member {
         return "[" + memberId + "] " + name;
     }
 }
+  
+
